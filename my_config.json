@@ -1,0 +1,31 @@
+{
+  "FFlagReconnectDisabled": "true", // disables reconnect
+  "FStringReconnectDisabledReason": "bad wifi",
+  "FIntCameraMaxZoomDistance": 9999,
+  "FFlagNewLightAttenuation": "true",
+  "FFlagFastGPULightCulling3": "true",
+  "FIntRuntimeMaxNumOfThreads": 2400,
+  "DFIntTaskSchedulerTargetFps": 29383, // fps setting
+  "FFlagGameBasicSettingsFramerateCap5": false, // disables the limit fps gui in basic settings.
+  "FFlagTaskSchedulerLimitTargetFpsTo2402": "False", // unlocks FPS more than 240.
+  "FFlagRenderDebugCheckThreading2": "true",
+  "FFlagDebugCheckRenderThreading": "True",
+  "FFlagRenderDebugCheckThreading2": "True",
+  "FFlagDebugCheckRenderThreading": "True",
+  "FIntRakNetResendBufferArrayLength": "128",
+  "FFlagOptimizeNetwork": "True", // (all network related)
+  "FFlagOptimizeNetworkRouting": "True",
+  "FFlagOptimizeNetworkTransport": "True",
+  "FFlagOptimizeServerTickRate": "True",
+  "DFIntServerPhysicsUpdateRate": "60",
+  "DFIntServerTickRate": "60",
+  "DFIntRakNetResendRttMultiple": "1",
+  "DFIntRaknetBandwidthPingSendEveryXSeconds": "1",
+  "DFIntOptimizePingThreshold": "50",
+  "DFIntPlayerNetworkUpdateQueueSize": "20",
+  "DFIntPlayerNetworkUpdateRate": "60",
+  "DFIntNetworkPrediction": "120",
+  "DFIntNetworkLatencyTolerance": "1",
+  "DFFlagTextureQualityOverrideEnabled": "True", // texture setting
+  "DFIntTextureQualityOverride": "3" // fixes the roblox pixelated textures bug.
+}
