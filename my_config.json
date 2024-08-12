@@ -1,6 +1,6 @@
 {
   "FFlagReconnectDisabled": "true", // disables reconnect
-  "FStringReconnectDisabledReason": "bad wifi",
+  "FStringReconnectDisabledReason": "nice wifi lil bro", // the text when you get disconnected (you can edit it how ever you want)
   "FIntCameraMaxZoomDistance": 9999,
   "FFlagNewLightAttenuation": "true",
   "FFlagFastGPULightCulling3": "true",
