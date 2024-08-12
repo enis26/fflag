@@ -7,8 +7,8 @@ And also yes it will have impact you can choose the JSONs by just downloading th
 _Note: I'll update if I find a new FFlag and if a certain one gets removed._
 
 <h2>Resources I used to make this possible</h2>
-<li>https://github.com/MaximumADHD/Roblox-FFlag-Tracker
-https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#physics-abusive
-https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md
-https://github.com/Dantezz025/Roblox-Fast-Flags</li>
-<b>Bloxstrap's Discord Server (from the fast flags forums)</b>
+<li>https://github.com/MaximumADHD/Roblox-FFlag-Tracker</li>
+<li>https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#physics-abusive</li>
+<li>https://github.com/GoingCrazyDude/fastflags-collection/blob/main/README.md</li>
+<li>https://github.com/Dantezz025/Roblox-Fast-Flags</li>
+<li><b>Bloxstrap's Discord Server (from the FastFlags forums)</b></li>
