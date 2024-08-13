@@ -4,7 +4,7 @@ FastFlags that I use with Bloxstrap.
 <h2>Why did you make this repo and if i do it will it have impact on my Roblox client? </h2>
 <p>Well I did this because I love the idea of sharing configs and it can be useful because I can sometimes format or just want to play Roblox in a different computer then I can just install Bloxstrap and do it.
 And also yes it will have impact you can choose the JSONs by just downloading the repo. It will help you with ping if you go with the ping JSON same goes to the FPS json. You can import both of the JSONs.</p>
-_Note: I'll update if I find a new FFlag and if a certain one gets removed._
+<i>Note: I'll update if I find a new FFlag and if a certain one gets removed.</i>
 
 <h2>Resources I used to make this possible</h2>
 <li>https://github.com/MaximumADHD/Roblox-FFlag-Tracker</li>
