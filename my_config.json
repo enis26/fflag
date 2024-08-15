@@ -1,6 +1,6 @@
 {
   "FFlagReconnectDisabled": "true", // disables reconnect
-  "FStringReconnectDisabledReason": "nice wifi lil bro", // the text when you get disconnected (you can edit it how ever you want)
+  "FStringReconnectDisabledReason": "your wifi sucks LOL 😭😭",
   "FIntCameraMaxZoomDistance": 9999,
   "FFlagNewLightAttenuation": "true",
   "FFlagFastGPULightCulling3": "true",
@@ -15,10 +15,19 @@
   "FIntRakNetResendBufferArrayLength": "128",
   "FFlagOptimizeNetwork": "True", // (all network related)
   "FFlagOptimizeNetworkRouting": "True",
+  "FFlagEnableFavoriteButtonForUgc":"true",
   "FFlagOptimizeNetworkTransport": "True",
+  "FIntMaxKickMessageLength": "5", // makes the kick message smaller
   "FFlagOptimizeServerTickRate": "True",
   "DFIntServerPhysicsUpdateRate": "60",
+  "FFlagErrorPromptResizesHeight": "False", // resizes the error prompt height.
   "DFIntServerTickRate": "60",
+  "FFlagVoiceBetaBadge": false, // removes the voice beta badge
+  "FFlagTopBarUseNewBadge": false, // removes the voice beta badge
+  "FFlagEnableBetaBadgeLearnMore": false, // removes the voice beta badge
+  "FFlagBetaBadgeLearnMoreLinkFormview": false, // removes the voice beta badge
+  "FFlagControlBetaBadgeWithGuac": false, // removes the voice beta badge
+  "FStringVoiceBetaBadgeLearnMoreLink": "", // removes the voice beta badge
   "DFIntRakNetResendRttMultiple": "1",
   "DFIntRaknetBandwidthPingSendEveryXSeconds": "1",
   "DFIntOptimizePingThreshold": "50",
