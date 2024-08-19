@@ -2,16 +2,10 @@
   "FFlagReconnectDisabled": "true", // disables reconnect
   "FStringReconnectDisabledReason": "your wifi sucks LOL 😭😭",
   "FIntCameraMaxZoomDistance": 9999,
-  "FFlagNewLightAttenuation": "true",
-  "FFlagFastGPULightCulling3": "true",
   "FIntRuntimeMaxNumOfThreads": 2400,
   "DFIntTaskSchedulerTargetFps": 29383, // fps setting
   "FFlagGameBasicSettingsFramerateCap5": false, // disables the limit fps gui in basic settings.
   "FFlagTaskSchedulerLimitTargetFpsTo2402": "False", // unlocks FPS more than 240.
-  "FFlagRenderDebugCheckThreading2": "true",
-  "FFlagDebugCheckRenderThreading": "True",
-  "FFlagRenderDebugCheckThreading2": "True",
-  "FFlagDebugCheckRenderThreading": "True",
   "FIntRakNetResendBufferArrayLength": "128",
   "FFlagOptimizeNetwork": "True", // (all network related)
   "FFlagOptimizeNetworkRouting": "True",
